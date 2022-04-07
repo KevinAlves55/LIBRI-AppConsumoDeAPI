@@ -1,17 +1,14 @@
 package com.cristianomoraes.libri_retorfit;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
-
 import com.cristianomoraes.libri_retorfit.model.Usuario;
 import com.cristianomoraes.libri_retorfit.remote.APIUtil;
 import com.cristianomoraes.libri_retorfit.remote.RouterInterface;
-
 import retrofit2.Call;
 import retrofit2.Callback;
 import retrofit2.Response;

@@ -2,7 +2,6 @@ package com.cristianomoraes.libri_retorfit.remote;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
