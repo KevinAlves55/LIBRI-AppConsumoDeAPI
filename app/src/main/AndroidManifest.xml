@@ -16,14 +16,14 @@
 <!--        <activity-->
 <!--            android:name=".CadastroLivro"-->
 <!--            android:exported="false" />-->
-        <activity
-            android:name=".CadastroUsuario"
-            android:exported="false" />
+<!--        <activity-->
+<!--            android:name=".CadastroUsuario"-->
+<!--            android:exported="false" />-->
+<!--        <activity-->
+<!--            android:name=".FeedLivro"-->
+<!--            android:exported="false" />-->
         <activity
             android:name=".FeedLivro"
-            android:exported="false" />
-        <activity
-            android:name=".CadastroLivro"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
